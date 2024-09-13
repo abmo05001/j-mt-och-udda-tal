@@ -1,0 +1,14 @@
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\bin\Debug\net8.0\j-mt-och-udda-tal.exe
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\bin\Debug\net8.0\j-mt-och-udda-tal.deps.json
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\bin\Debug\net8.0\j-mt-och-udda-tal.runtimeconfig.json
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\bin\Debug\net8.0\j-mt-och-udda-tal.dll
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\bin\Debug\net8.0\j-mt-och-udda-tal.pdb
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.AssemblyInfoInputs.cache
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.AssemblyInfo.cs
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.csproj.CoreCompileInputs.cache
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.dll
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\refint\j-mt-och-udda-tal.dll
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.pdb
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\j-mt-och-udda-tal.genruntimeconfig.cache
+C:\Users\Abdiwali Ahmed\Documents\GitHub\j-mt-och-udda-tal\obj\Debug\net8.0\ref\j-mt-och-udda-tal.dll
